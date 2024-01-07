@@ -8,10 +8,10 @@ c = cdsapi.Client()
 
 # The date and time of the initial field
 date_time = datetime(
-    year=2023, 
-    month=7, 
-    day=11,
-    hour=23,
+    year=2024, 
+    month=1, 
+    day=2,
+    hour=0,
     minute=0)
 
 # The directory for forecastsd

@@ -9,19 +9,19 @@ use_GPU = False
 # The date and time of the initial field
 # date = '2023-07-03'
 date_time = datetime(
-    year=2023, 
-    month=7, 
-    day=11,
-    hour=23,
+    year=2024, 
+    month=1, 
+    day=2,
+    hour=0,
     minute=0)
 # time = '23:00'
 
 # The date and time of the final approaches
 date_time_final = datetime(
-    year=2023, 
-    month=7, 
-    day=17,
-    hour=11,
+    year=2024, 
+    month=6, 
+    day=15,
+    hour=0,
     minute=0)
 
 final_result_dir = os.path.join(
